@@ -1,4 +1,4 @@
-# 💼 Ayush Rai — Software Engineer Resume
+# 💼 Ayush Rai — Software Engineer
 
 Welcome to my resume repository! This contains my latest resume as a Software Engineer with a strong background in full-stack web development, cloud deployment, machine learning, and scalable backend systems.
 
@@ -57,12 +57,18 @@ BangHome (https://banghome.in)
 
 ### 🔨 Projects
 
-- **AI Career Guide**: AI-driven assistant using Gemini API with resume parsing, mock interviews, job prep (Vercel + Neon DB)
-- **ShopEasy 2 / DataManage 2**: Inventory management with image-based tracking and modular APIs (React, MongoDB)
-- **BatCheet**: Real-time chat with JWT, avatar support, and WebSocket integration
-- **Grievance Cell / Waste to Wealth**: Complaint & waste management apps with scalable MongoDB storage
+- **[AI Career Guide](https://job-ai-5ojy.vercel.app/)**  
+  AI-driven assistant using Gemini API with resume parsing, mock interviews, and job prep (Vercel + Neon DB)
 
----
+- **[ShopEasy 2](https://dapper-chaja-9ec520.netlify.app/)** / **[DataManage 2](https://singular-pony-9e4314.netlify.app/)**  
+  Inventory management tools with image-based tracking and modular APIs (React, MongoDB)
+
+- **[BatCheet](https://clinquant-cupcake-e24d24.netlify.app/)**  
+  Real-time chat app with JWT authentication, avatar support, and WebSocket messaging
+
+- **Grievance Cell / Waste to Wealth**  
+  Platforms for complaint resolution and waste-to-resource mapping with scalable MongoDB storage
+
 
 ### 🧠 Skills
 
