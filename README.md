@@ -1,6 +1,10 @@
 # 💼 Ayush Rai — Software Engineer
 
-Welcome to my resume repository! This contains my latest resume as a Software Engineer with a strong background in full-stack web development, cloud deployment, machine learning, and scalable backend systems.
+I’m Ayush Rai, a passionate Full Stack Developer currently working as a Founding Engineer at BangHome. I specialize in building scalable web applications using technologies like React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and AWS EC2. I have led both frontend and backend teams, contributed to architectural design, and deployed production-ready solutions for high-traffic platforms.
+
+My project portfolio includes AI-powered tools like AI Career Guide for resume analysis and job prep, and real-time applications like BatCheet using WebSockets. With a strong academic background (91.6% in High School, 91.5% in Intermediate), an 8.35 GPA (till 5th sem), and hands-on experience in DSA and systems design, I bring both technical depth and collaborative agility.
+
+I am highly adaptable, committed to clean code practices, and thrive in fast-paced, growth-focused environments.
 
 ---
 
