@@ -1,118 +1,183 @@
-# 💼 Ayush Rai — Software Engineer
+# Hi there, I'm Ayush Rai 👋
 
-I’m Ayush Rai, a passionate Full Stack Developer currently working as a Founding Engineer at BangHome. I specialize in building scalable web applications using technologies like React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and AWS EC2. I have led both frontend and backend teams, contributed to architectural design, and deployed production-ready solutions for high-traffic platforms.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rai-7109202b6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://spiffy-biscotti-0bc36f.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pepcoderayu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrai803@gmail.com)
 
-My project portfolio includes AI-powered tools like AI Career Guide for resume analysis and job prep, and real-time applications like BatCheet using WebSockets. With a strong academic background (91.6% in High School, 91.5% in Intermediate), an 8.35 GPA (till 5th sem), and hands-on experience in DSA and systems design, I bring both technical depth and collaborative agility.
+</div>
 
-I am highly adaptable, committed to clean code practices, and thrive in fast-paced, growth-focused environments.
+## 🚀 About Me
 
----
+I'm a **Software Engineer** passionate about building scalable, high-performance web applications. Currently pursuing my B.Tech in Computer Science at AKTU with a CGPA of 8.27, I've had the privilege of working with innovative startups and contributing to production systems serving hundreds of thousands of users.
 
-## 📄 Resume Preview
-
-> You can view/download my latest resume here:
-👉 [View Resume (PDF)](./Ayush_Rai-Resume.pdf)
-
----
-
-## 🧑‍💻 About Me
-
-I’m a **Computer Science undergraduate** with experience in:
-- ⚙️ Full-stack development using React, TypeScript, Node.js, and Spring Boot
-- ☁️ Cloud-native deployment with Docker, NGINX, GitHub Actions, and AWS/GCP
-- 🤖 Machine learning projects with scikit-learn, pandas, and Streamlit
-- 💬 Real-time apps with WebSocket & Socket.IO
-- 📦 Scalable systems using PostgreSQL, MongoDB, and Prisma
-
-Currently working as a **Founding Engineer Intern** at [BangHome](https://banghome.in), building scalable rental platforms.
+- 🔭 Currently working as **Software Development Intern** at [CreditSea](https://creditsea.com)
+- 🌱 Building full-stack applications with **Next.js, React, Node.js, Spring Boot**
+- 💡 Specialized in **system design, performance optimization, and cloud architecture**
+- 📊 Solved **500+ DSA problems** across LeetCode and HackerRank
+- 🎯 **1300+ contributions** in the last year across **65+ repositories**
 
 ---
 
-## 💡 Key Highlights
+## 💼 Professional Experience
 
-### 👨‍💻 Professional Summary
-- Built production-grade apps handling 100K+ requests/month
-- Migrated systems from MongoDB to PostgreSQL for better scalability
-- Achieved 80+ Lighthouse performance scores using full-stack optimization
-- Familiar with DevOps pipelines and monitoring systems
+### 🏦 Software Development Intern @ [CreditSea](https://creditsea.com)
+**Oct 2025 - Present | Raipur, Chhattisgarh**
 
----
+- 🎫 Designed and implemented a **complete role-based Ticketing System** deployed to **500K+ users**
+- 🔐 Built secure document management system using **AWS S3** with hashing and persistent file URLs
+- ⚡ Reduced backend load by **40%** through API optimization and asynchronous loaders
+- 🔍 Improved query response time by **35%** with advanced filtering and search logic
+- 📱 Developed click and install attribution logic for accurate user tracking
 
-### 📚 Education
-**B.Tech in Computer Science**  
-United College of Engineering and Research, Prayagraj  
-📊 CGPA: 8.35  
-📅 2022 – 2026
+### 🚀 Full Stack Development Intern @ [Sarthi](https://sarthi.me)
+**Jul 2025 - Oct 2025 | Noida, Uttar Pradesh**
 
----
+- 👥 Delivered scalable modules supporting **10K+ active users**
+- ⚡ Improved application responsiveness by **50%** through lazy loading and memoization
+- 🔧 Built FastAPI backend services handling **5K+ daily requests**
+- 📊 Integrated Mixpanel analytics for data-driven product decisions
+- 🗄️ Optimized PostgreSQL schemas reducing API response time by **40%**
 
-### 🏢 Experience
+### 🏠 Software Engineering Intern (Founding Engineer) @ [BangHome](https://banghome.in)
+**Nov 2024 - Jul 2025 | Bengaluru, Karnataka**
 
-**Software Engineer Intern**  
-BangHome (https://banghome.in)  
-📍 Bengaluru | 📅 Nov 2024 – Present
-
-- Built and deployed a rental platform with AWS EC2, Docker, and NGINX
-- Managed frontend with Next.js & TypeScript and backend with Node.js
-- Migrated data pipelines to PostgreSQL, processing 2K–3K records daily
-- Led CI/CD setup via GitHub Actions for seamless deployment
-
----
-
-### 🔨 Projects
-
-- **[AI Career Guide](https://job-ai-5ojy.vercel.app/)**  
-  AI-driven assistant using Gemini API with resume parsing, mock interviews, and job prep (Vercel + Neon DB)
-
-- **[ShopEasy 2](https://dapper-chaja-9ec520.netlify.app/)** / **[DataManage 2](https://singular-pony-9e4314.netlify.app/)**  
-  Inventory management tools with image-based tracking and modular APIs (React, MongoDB)
-
-- **[BatCheet](https://clinquant-cupcake-e24d24.netlify.app/)**  
-  Real-time chat app with JWT authentication, avatar support, and WebSocket messaging
-
-- **Grievance Cell / Waste to Wealth**  
-  Platforms for complaint resolution and waste-to-resource mapping with scalable MongoDB storage
-
-
-### 🧠 Skills
-
-**Languages**: Java, Python, C, SQL, JavaScript, HTML/CSS  
-**Frameworks**: React, Next.js, Node.js, Spring Boot  
-**Tools**: Docker, Git, GitHub Actions, Jenkins, GCP Console  
-**Libraries**: pandas, NumPy, Matplotlib, Express.js, Redux  
-**APIs**: Gemini, News, OpenAI, OpenStreetMap, Rapid API  
-**Databases**: MongoDB, PostgreSQL, MySQL, Supabase, Neon  
-**CS Fundamentals**: DSA, Problem Solving, System Design
+- 🔄 Executed **MongoDB to PostgreSQL migration** sustaining **2K-3K daily transactions** at sub-100ms latency
+- 📈 Improved Lighthouse score from **30 → 80** and reduced page load from **3s → 0.5s**
+- ☁️ Built AWS Lambda pipelines for automated S3 data processing
+- 🤖 Integrated AI-based chatbot and recommendation systems
+- 🚀 Scaled platform to handle **100K+ monthly requests** with **99.9% uptime**
 
 ---
 
-### 🏆 Certifications
+## 🛠️ Tech Stack
 
-- 📘 Introduction to Generative AI — Google
-- 🌐 Responsive Web Design — freeCodeCamp
-- 💻 Java DSA — Scaler
-- 📱 Android Dev — Technophilia (IIT Kharagpur)
-- 🧠 Quora System Design — Scaler
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🏅 Achievements
+## 🎯 Featured Projects
 
-- 👨‍💻 500+ DSA problems solved
-- 🛠️ First engineer at BangHome (paid intern)
-- 🥇 Finalist in Flipkart Grid, SIH, UHack, Tata Crucible, and L’Oréal Challenge
+### 🤖 [AI Event Organiser](https://ai-event-organiser-ten.vercel.app/)
+**Next.js | Convex | Clerk | TypeScript | Tailwind CSS**
+- Built event-driven architecture with secure API endpoints
+- Implemented AI-driven features for intelligent event planning
+- Ensured scalable application logic with clean low-level design
+
+### 💼 [AI Career Guide](https://job-ai-5ojy.vercel.app/)
+**Next.js | Prisma | PostgreSQL | Gemini API**
+- Developed backend APIs serving **1K+ monthly users**
+- Integrated Gemini API for AI-powered career guidance
+- Improved user engagement by **25%**
+
+### 👔 [KaamWale – Job Portal](https://scintillating-kelpie-de0c3d.netlify.app/)
+**Node.js | Express.js | React.js | MongoDB | JWT | Redis**
+- Built secure platform supporting **500 concurrent users**
+- Implemented JWT authentication and REST APIs
+- Optimized search queries achieving **60%** faster response times
+
+### 💬 [BatCheet - Real-time Chat](https://clinquant-cupcake-e24d24.netlify.app/)
+**React.js | Node.js | Socket.IO | MongoDB**
+- Real-time messaging with WebSocket integration
+- JWT authentication and avatar support
+- Scalable MongoDB storage for chat history
 
 ---
 
-## 🔗 Links
+## 📊 GitHub Stats
 
-- 🌍 [Portfolio](https://spiffy-biscotti-0bc36f.netlify.app/)
-- 📧 [Email](mailto:ayushrai803@gmail.com)
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/ayush-rai-7109202b6)
-- 💻 [GitHub](https://github.com/ayush123-bit)
-- 🛠 [BangHome](https://banghome.in)
-- 🎯 [AI Job Assistant](https://job-ai-5ojy.vercel.app/)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush123-bit&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush123-bit&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush123-bit&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-> 📌 For collaboration, opportunities, or resume feedback, feel free to connect via [email](mailto:ayushrai803@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-rai-7109202b6).
+## 🏆 Achievements & Certifications
+
+- ✅ **500+ DSA problems** solved on LeetCode and HackerRank
+- 📦 **65+ repositories** with **1300+ contributions** in the last year
+- 🌟 Active **open-source contributor** with bug fixes and feature development
+- 🥇 **Finalist** in Flipkart Grid, Smart India Hackathon, UHack, Tata Crucible, and L'Oréal Challenge
+
+### 📜 Certifications
+- 🎓 **Google Generative AI** - Google
+- ☁️ **IBM Cloud Computing** - IBM
+- 🏗️ **Scalers System Design** - Scaler
+- 🎨 **Responsive Web Design** - freeCodeCamp
+- 📱 **Android Development** - Technophilia (IIT Kharagpur)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush123-bit&theme=github-compact&hide_border=true)
+
+---
+
+## 💡 What I'm Currently Learning
+
+- 🧠 Advanced System Design patterns
+- 🔐 Microservices architecture and security best practices
+- ☁️ AWS cloud services and serverless computing
+- 🤖 AI/ML integration in full-stack applications
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 Open to **Full-time SDE roles** and **challenging projects**
+- 🎯 Interested in **system design**, **scalable architectures**, and **performance optimization**
+- 📧 Reach me at: **ayushrai803@gmail.com**
+- 🌐 Check out my [Portfolio](https://spiffy-biscotti-0bc36f.netlify.app/)
+
+---
+
+<div align="center">
+
+### ⭐ From [ayush123-bit](https://github.com/ayush123-bit)
+
+![Visitor Count](https://profile-counter.glitch.me/ayush123-bit/count.svg)
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
