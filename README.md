@@ -114,21 +114,6 @@ I'm a **Software Engineer** passionate about building scalable, high-performance
 - JWT authentication and avatar support
 - Scalable MongoDB storage for chat history
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush123-bit&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush123-bit&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush123-bit&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -176,7 +161,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### ⭐ From [ayush123-bit](https://github.com/ayush123-bit)
 
-![Visitor Count](https://profile-counter.glitch.me/ayush123-bit/count.svg)
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
