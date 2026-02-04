@@ -11,7 +11,7 @@ I am highly adaptable, committed to clean code practices, and thrive in fast-pac
 ## 📄 Resume Preview
 
 > You can view/download my latest resume here:
-👉 [View Resume (PDF)](./Software-Enginner_Resume.pdf)
+👉 [View Resume (PDF)](./Ayush_Rai-Resume.pdf)
 
 ---
 
