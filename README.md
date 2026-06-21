@@ -131,12 +131,6 @@ I'm a **Software Engineer** passionate about building scalable, high-performance
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush123-bit&theme=github-compact&hide_border=true)
-
----
-
 ## 💡 What I'm Currently Learning
 
 - 🧠 Advanced System Design patterns
