@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** passionate about building scalable, high-performance web applications. Currently pursuing my B.Tech in Computer Science at AKTU with a CGPA of 8.27, I've had the privilege of working with innovative startups and contributing to production systems serving hundreds of thousands of users.
+I'm a **Software Engineer** passionate about building scalable, high-performance web applications. Completed my B.Tech in Computer Science at AKTU with a CGPA of 8.38, I've had the privilege of working with innovative startups and contributing to production systems serving hundreds of thousands of users.
 
 - 🔭 Currently working as **Software Development Intern** at [CreditSea](https://creditsea.com)
 - 🌱 Building full-stack applications with **Next.js, React, Node.js, Spring Boot**
@@ -23,7 +23,7 @@ I'm a **Software Engineer** passionate about building scalable, high-performance
 
 ## 💼 Professional Experience
 
-### 🏦 Software Development Intern @ [CreditSea](https://creditsea.com)
+### 🏦 Associate Software Engineer @ [CreditSea](https://creditsea.com)
 **Oct 2025 - Present | Raipur, Chhattisgarh**
 
 - 🎫 Designed and implemented a **complete role-based Ticketing System** deployed to **500K+ users**
